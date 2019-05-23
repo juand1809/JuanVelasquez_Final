@@ -10,4 +10,4 @@ a.out: VelasquezJuan_final_15.cpp
 	g++ VelasquezJuan_final_15.cpp
 
 clean:
-	rm -rf *.x *.dat *.gif
+	rm -rf *.x *.dat *.png
